@@ -3,3 +3,7 @@ NPM		: 140810160016
 TTL		: Padang, 4 Februari 1998
 Jenis Kelamin	: Laki-Laki
 Hobi		: Jalan Jalan
+
+Nama	: Daffa
+NPM	: 140810160058
+>>>>>>> percobaan
