@@ -1,2 +1,4 @@
-Nama	: Fikri Ikhsan
-NPM	: 140810160016
+Nama		: Fikri Ikhsan
+NPM		: 140810160016
+TTL		: Padang, 4 Februari 1998
+Jenis Kelamin	: Laki-Laki
